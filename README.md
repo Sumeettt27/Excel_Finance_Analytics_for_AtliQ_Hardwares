@@ -9,12 +9,19 @@ Data analysis of AtliQ Hardwares using Excel
 <br/>
 
 Key Analysis Areas:
-•  Yearly & Monthly P&L Analysis – Examined Net Sales, COGS, Gross Margin, and GM% to track financial performance over time.
-•  Market-wise P&L Insights – Identified high-performing & underperforming regions.
-•  Subzone-wise GM% Breakdown – Evaluated profitability across different business segments.
+ 
+<ul>
+  <li style="margin: 50px; padding: 0px;">Yearly & Monthly P&L Analysis – Examined Net Sales, COGS, Gross Margin, and GM% to track financial performance over time.</li>
+  <li style="margin: 50px; padding: 0px;">Market-wise P&L Insights – Identified high-performing & underperforming regions.</li>
+  <li style="margin: 50px; padding: 0px;">Subzone-wise GM% Breakdown – Evaluated profitability across different business segments.</li>
+</ul>
+
+
 
 Tools & Skills Used:
 ✔ Excel (Power Query, Power Pivot) for data transformation & modeling.
+
+
 ✔ Developed Power Pivot reports for clear financial insights.
 
 While the source data remains confidential, this project strengthened my ability to work with large financial datasets and extract actionable insights to support business growth.
