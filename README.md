@@ -19,6 +19,8 @@ Key Analysis Areas:
 
 
 Tools & Skills Used:
+
+
 ✔ Excel (Power Query, Power Pivot) for data transformation & modeling.
 
 
